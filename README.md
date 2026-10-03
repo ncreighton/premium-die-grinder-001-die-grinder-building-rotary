@@ -1,0 +1,2 @@
+# premium-die-grinder-001-die-grinder-building-rotary
+Stop juggling spreadsheets and sticky notes to track your die grinder builds. The Die Grinder Building &amp; Rotary Burr Craft Workshop brings every step—from burr selection to final assembly—into one organized Notion workspace.  This Notion template solves the chaos of managing multiple die grinder projects, materials, and tool specs. It provides a st
